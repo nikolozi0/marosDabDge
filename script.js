@@ -121,5 +121,5 @@ function hoverNoButton() {
 }
 
 function clickYesButton() {
-    window.location.href = 'inde.html';
+    window.location.href = 'index.html';
 }
